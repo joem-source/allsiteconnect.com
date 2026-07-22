@@ -5,8 +5,8 @@ Static construction-site internet rental website prepared for GitHub Pages.
 ## Before publishing
 
 1. Open `index.html`.
-2. Replace `(000) 000-0000` with your phone number.
-3. Replace every instance of `quotes@allsiteconnect.com` with the email address that should receive quote requests.
+2. Replace `(917) 750-5054` with your phone number.
+3. Replace every instance of `joem@gothamsound.com` with the email address that should receive quote requests.
 4. Commit the changes.
 
 ## Enable GitHub Pages
